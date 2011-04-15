@@ -1,0 +1,8 @@
+D:\Leiking\Study\_.NET\LorD\LorD\LorD\bin\Debug\LorD.exe
+D:\Leiking\Study\_.NET\LorD\LorD\LorD\bin\Debug\LorD.pdb
+D:\Leiking\Study\_.NET\LorD\LorD\LorD\obj\Debug\ResolveAssemblyReference.cache
+D:\Leiking\Study\_.NET\LorD\LorD\LorD\obj\Debug\LorD.Form1.resources
+D:\Leiking\Study\_.NET\LorD\LorD\LorD\obj\Debug\LorD.Properties.Resources.resources
+D:\Leiking\Study\_.NET\LorD\LorD\LorD\obj\Debug\LorD.csproj.GenerateResource.Cache
+D:\Leiking\Study\_.NET\LorD\LorD\LorD\obj\Debug\LorD.exe
+D:\Leiking\Study\_.NET\LorD\LorD\LorD\obj\Debug\LorD.pdb
